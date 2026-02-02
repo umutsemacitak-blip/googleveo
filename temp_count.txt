@@ -1,0 +1,2 @@
+COUNT:2987
+FIRST 5:['Keyword', 'Intent', 'Volume', 'Keyword Difficulty', 'CPC (USD)']

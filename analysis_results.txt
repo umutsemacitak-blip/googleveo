@@ -1,0 +1,52 @@
+--- CANALYSIS: index.html ---
+[OK] Title found: 'BQ5M | Neuro-Responsive Intelligence' (36 chars)
+[OK] Meta Description found (147 chars).
+[OK] Viewport tag present.
+[OK] Exactly one H1 tag found.
+[INFO] Header structure found (First 5): ['h1', 'h3', 'h3', 'h3', 'h3']...
+[INFO] No images found.
+[OK] Semantic tags used: header, main, nav, section
+[INFO] No canonical tag.
+
+--- CANALYSIS: report-authority-blueprint.html ---
+[OK] Title found: '10-Phase Authority Blueprint | BQ5M Intelligence' (48 chars)
+[OK] Meta Description found (55 chars).
+[OK] Viewport tag present.
+[OK] Exactly one H1 tag found.
+[INFO] Header structure found (First 5): ['h1', 'h2', 'h3', 'h3', 'h2']...
+[INFO] No images found.
+[OK] Semantic tags used: header, main, nav, section
+[INFO] No canonical tag.
+
+--- CANALYSIS: report-veo-tech.html ---
+[OK] Title found: 'Technical Analysis: Veo 3 | BQ5M Intelligence' (45 chars)
+[OK] Meta Description found (52 chars).
+[OK] Viewport tag present.
+[OK] Exactly one H1 tag found.
+[INFO] Header structure found (First 5): ['h1', 'h2', 'h3', 'h3', 'h2']...
+[INFO] No images found.
+[OK] Semantic tags used: header, main, nav, section
+[INFO] No canonical tag.
+
+--- CANALYSIS: report-prompt-research.html ---
+[OK] Title found: 'Veo 3 Prompt Engineering Research | BQ5M Intelligence' (53 chars)
+[OK] Meta Description found (60 chars).
+[OK] Viewport tag present.
+[OK] Exactly one H1 tag found.
+[INFO] Header structure found (First 5): ['h1', 'h2', 'h3', 'h2', 'h3']...
+[INFO] No images found.
+[OK] Semantic tags used: header, main, nav, section
+[INFO] No canonical tag.
+
+--- CANALYSIS: tool-prompt-library.html ---
+[OK] Title found: 'Prompt Nexus | BQ5M Intelligence' (32 chars)
+[OK] Meta Description found (94 chars).
+[OK] Viewport tag present.
+[OK] Exactly one H1 tag found.
+[INFO] Header structure found (First 5): ['h1', 'h4', 'h3']...
+[INFO] No images found.
+[OK] Semantic tags used: header, main, nav, section
+[INFO] No canonical tag.
+
+--- SITEMAP ANALYSIS: sitemap.xml ---
+[CRITICAL] Sitemap parse error: not well-formed (invalid token): line 34, column 68

@@ -1,0 +1,204 @@
+{
+  "total_files": 8,
+  "total_issues": 3,
+  "total_warnings": 15,
+  "all_results": [
+    {
+      "file": "10PhaseAuthorityBlueprintMasteringGoogleVeo3i.html",
+      "issues": [
+        "Missing H1 heading"
+      ],
+      "warnings": [
+        "Meta description too long: 203 chars",
+        "Missing semantic HTML5 tags"
+      ],
+      "success": [
+        "Title length optimal: 56 chars",
+        "Open Graph tags present: 4 tags",
+        "Good word count: 1335 words",
+        "All images have alt text",
+        "Viewport meta tag present"
+      ],
+      "stats": {
+        "word_count": 1335,
+        "images": 0,
+        "links": 29,
+        "h1_count": 0,
+        "title_length": 56,
+        "meta_desc_length": 203
+      }
+    },
+    {
+      "file": "GoogleVeo3SEOMakaleretimi.html",
+      "issues": [
+        "Missing H1 heading"
+      ],
+      "warnings": [
+        "Meta description too long: 205 chars",
+        "Missing semantic HTML5 tags"
+      ],
+      "success": [
+        "Title length optimal: 50 chars",
+        "Open Graph tags present: 4 tags",
+        "Good word count: 3501 words",
+        "All images have alt text",
+        "Viewport meta tag present"
+      ],
+      "stats": {
+        "word_count": 3501,
+        "images": 0,
+        "links": 40,
+        "h1_count": 0,
+        "title_length": 50,
+        "meta_desc_length": 205
+      }
+    },
+    {
+      "file": "GoogleVeoPromptEngineeringResearch.html",
+      "issues": [
+        "Missing H1 heading"
+      ],
+      "warnings": [
+        "Meta description too long: 213 chars",
+        "Missing semantic HTML5 tags"
+      ],
+      "success": [
+        "Title length optimal: 54 chars",
+        "Open Graph tags present: 4 tags",
+        "Good word count: 4033 words",
+        "All images have alt text",
+        "Viewport meta tag present"
+      ],
+      "stats": {
+        "word_count": 4033,
+        "images": 0,
+        "links": 37,
+        "h1_count": 0,
+        "title_length": 54,
+        "meta_desc_length": 213
+      }
+    },
+    {
+      "file": "index.html",
+      "issues": [],
+      "warnings": [
+        "Meta description too long: 179 chars",
+        "Low word count: 121 words"
+      ],
+      "success": [
+        "Title length optimal: 57 chars",
+        "Open Graph tags present: 5 tags",
+        "Single H1 tag present",
+        "All images have alt text",
+        "Semantic HTML5 tags used",
+        "Viewport meta tag present"
+      ],
+      "stats": {
+        "word_count": 121,
+        "images": 0,
+        "links": 13,
+        "h1_count": 1,
+        "title_length": 57,
+        "meta_desc_length": 179
+      }
+    },
+    {
+      "file": "report-authority-blueprint.html",
+      "issues": [],
+      "warnings": [
+        "Meta description too long: 200 chars",
+        "1 hidden elements"
+      ],
+      "success": [
+        "Title length optimal: 56 chars",
+        "Open Graph tags present: 5 tags",
+        "Single H1 tag present",
+        "Good word count: 1356 words",
+        "All images have alt text",
+        "Semantic HTML5 tags used",
+        "Viewport meta tag present"
+      ],
+      "stats": {
+        "word_count": 1356,
+        "images": 0,
+        "links": 35,
+        "h1_count": 1,
+        "title_length": 56,
+        "meta_desc_length": 200
+      }
+    },
+    {
+      "file": "report-prompt-research.html",
+      "issues": [],
+      "warnings": [
+        "Meta description too long: 213 chars"
+      ],
+      "success": [
+        "Title length optimal: 59 chars",
+        "Open Graph tags present: 5 tags",
+        "Single H1 tag present",
+        "Good word count: 4051 words",
+        "All images have alt text",
+        "Semantic HTML5 tags used",
+        "Viewport meta tag present"
+      ],
+      "stats": {
+        "word_count": 4051,
+        "images": 0,
+        "links": 43,
+        "h1_count": 1,
+        "title_length": 59,
+        "meta_desc_length": 213
+      }
+    },
+    {
+      "file": "report-veo-tech.html",
+      "issues": [],
+      "warnings": [
+        "Meta description too long: 235 chars"
+      ],
+      "success": [
+        "Title length optimal: 59 chars",
+        "Open Graph tags present: 5 tags",
+        "Single H1 tag present",
+        "Good word count: 3519 words",
+        "All images have alt text",
+        "Semantic HTML5 tags used",
+        "Viewport meta tag present"
+      ],
+      "stats": {
+        "word_count": 3519,
+        "images": 0,
+        "links": 46,
+        "h1_count": 1,
+        "title_length": 59,
+        "meta_desc_length": 235
+      }
+    },
+    {
+      "file": "tool-prompt-library.html",
+      "issues": [],
+      "warnings": [
+        "Meta description too long: 186 chars",
+        "Low word count: 50 words",
+        "1 hidden elements"
+      ],
+      "success": [
+        "Title length optimal: 57 chars",
+        "Open Graph tags present: 5 tags",
+        "Single H1 tag present",
+        "All images have alt text",
+        "Semantic HTML5 tags used",
+        "Viewport meta tag present"
+      ],
+      "stats": {
+        "word_count": 50,
+        "images": 0,
+        "links": 9,
+        "h1_count": 1,
+        "title_length": 57,
+        "meta_desc_length": 186
+      }
+    }
+  ]
+}
